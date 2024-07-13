@@ -1,0 +1,40 @@
+{
+  "name": "lsrw",
+  "version": "1.0.0",
+  "description": "angular6 project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/material": "^7.2.2",
+    "async": "^2.6.1",
+    "body-parser": "^1.18.3",
+    "compression": "^1.7.4",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.4",
+    "dynamic-watermark": "^1.0.0",
+    "express": "^4.16.3",
+    "express-jwt": "^5.3.1",
+    "express-session": "^1.15.6",
+    "is-empty": "^1.2.0",
+    "jsonwebtoken": "^8.3.0",
+    "md5": "^2.2.1",
+    "mkdirp": "^0.5.1",
+    "moment": "^2.22.2",
+    "morgan": "^1.9.1",
+    "multer": "^1.3.1",
+    "mysql": "^2.16.0",
+    "ngx-drag-drop": "^1.1.0",
+    "nodemailer": "^4.6.7",
+    "nodemailer-ses-transport": "^1.5.1",
+    "pg": "^7.6.1",
+    "rand-token": "^0.4.0",
+    "read-excel-file": "^2.0.7",
+    "serve-favicon": "^2.5.0",
+    "word-stats": "^0.3.0"
+  }
+}
